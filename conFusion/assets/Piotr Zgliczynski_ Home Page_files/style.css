@@ -1,0 +1,14 @@
+.row-footer {
+    background-color: #AfAfAf;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.row-header {
+    margin: 20px;
+}
+
+.jumbotron {
+    background: #99c2ff;
+    //color:floralwhite;
+}
